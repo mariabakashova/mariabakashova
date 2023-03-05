@@ -13,4 +13,5 @@ About me
 ![TestRail](https://img.shields.io/badge/-TestRail-gray?style=for-the-badge&logo=testrail)
 ![HTML](https://img.shields.io/badge/-HTML-gray?style=for-the-badge&logo=html)
 
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=telegram)](https://t.me/mari_back)
