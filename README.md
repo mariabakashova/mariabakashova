@@ -1,6 +1,7 @@
-![Header](https://github.com/mariabakashova/mariabakashova/blob/main/assets/VYVESKA_SYTYJMOPS.jpg)
+![Header](https://github.com/mariabakashova/mariabakashova/blob/main/assets/Maria%20Bakashova.png)
 
-About me
+### About me
+I am a beginner QA Engineer.I want to connect my life with IT and develop in this direction.
 
 ### Languages and Tools
 ![SQL](https://img.shields.io/badge/-SQL-gray?style=for-the-badge&logo=mysql)
